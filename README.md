@@ -64,19 +64,26 @@ bash
 Copy
 Edit
 python sms_spam_detector.py
+
 🖥️ Example Usage
 bash
 Copy
 Edit
+
 Enter an SMS to check (or type 'exit' to stop): 
+
 "Congratulations! You've won a free vacation. Call now to claim."
+
 Prediction: Spam
+
 bash
 Copy
 Edit
+
 Enter an SMS to check (or type 'exit' to stop): 
 "Hey, are we still meeting for coffee today?"
 Prediction: Not Spam
+
 📊 Model Performance
 The trained Logistic Regression model achieves:
 ✅ Accuracy: ~98%
@@ -86,6 +93,7 @@ The trained Logistic Regression model achieves:
 bash
 Copy
 Edit
+
 📂 SMS_Spam_Detection
 │── 📄 README.md  # Project documentation
 
