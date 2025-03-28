@@ -88,11 +88,17 @@ Copy
 Edit
 📂 SMS_Spam_Detection
 │── 📄 README.md  # Project documentation
+
 │── 📄 spam.csv  # Dataset file
+
 │── 📄 sms_spam_detector.py  # Main Python script
+
 │── 📄 SMS_Spam_Detection.ipynb  # Jupyter Notebook with detailed steps
+
 │── 📄 spam_classifier.pkl  # Saved ML model
+
 │── 📄 tfidf_vectorizer.pkl  # Saved TF-IDF vectorizer
+
 🔗 References
 SMS Spam Dataset: Kaggle Dataset
 
