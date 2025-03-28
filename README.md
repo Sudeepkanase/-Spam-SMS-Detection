@@ -113,8 +113,10 @@ SMS Spam Dataset: Kaggle Dataset
 Scikit-learn: Documentation
 
 NLTK: Documentation
+
 ❗ Limitations
 While this spam detection model performs well, it has some limitations:
+
 🔴 Limited Generalization: The model is trained on a specific dataset and may not generalize well to other types of spam messages (e.g., WhatsApp, emails, or social media).
 
 📌 Future Improvements
